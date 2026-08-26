@@ -383,34 +383,10 @@ Customer analytics framework designed to identify churn drivers, segment risk, a
   </a>
 </p>
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swastika1205&show_icons=true&theme=transparent&hide_border=true&title_color=A970FF&icon_color=7000FF&text_color=C9D1D9" alt="GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=Swastika1205&theme=transparent&hide_border=true&ring=7000FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastika1205&layout=compact&theme=transparent&hide_border=true&title_color=A970FF&text_color=C9D1D9" alt="Top Languages" width="50%"/>
-</p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swastika1205&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swastika1205&bg_color=0D1117&color=A970FF&line=7000FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
 
 ---
 
