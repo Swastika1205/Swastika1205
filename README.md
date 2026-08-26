@@ -28,11 +28,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swastika1205&color=8A2BE2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Swastika1205?style=flat-square&color=7000FF&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Swastika1205?style=flat-square&color=4B0082&label=Total+Stars" alt="Total Stars"/>
-</p>
+
 
 ---
 
